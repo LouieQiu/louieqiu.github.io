@@ -1,18 +1,18 @@
-baseURL: https://reahill06.github.io/
+baseURL: https://louieqiu.github.io/
 locale: zh
 defaultContentLanguage: zh
-title: Reahill's Blog
+title: LouieQ's Blog
 theme: PaperMod
 
 params:
   mainSections:
     - posts
-  author: Reahill
+  author: LouieQ
   assets:
     favicon: favicon.ico
   homeInfoParams:
     enabled: true
-    title: Reahill's Blog
+    title: LouieQ's Blog
     content: 我想说很多东西，但这里空白太小放不下
     imageUrl: img/avatar.jpg
   fuseOpts:
