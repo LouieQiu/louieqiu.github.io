@@ -1,4 +1,9 @@
 body {
-    font-family: "JetBrains Mono", "Noto Sans SC", "LXGW WenKai", sans-serif;
+    font-family: "LXGW WenKai", "Noto Sans SC", sans-serif;
+    font-weight: normal;
+}
+
+code {
+    font-family: "JetBrains Mono", "LXGW WenKai", "Noto Sans SC", sans-serif;
     font-weight: normal;
 }
